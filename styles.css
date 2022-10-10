@@ -187,4 +187,12 @@ a:hover {
   .logo {
     font-size: 1.5rem;
   }
+  @media screen and (max-width: 596px) {
+  .nav-toggle-icon {
+    /* display: none; */
+    margin-left: 15%;
+  }
+  .logo {
+    font-size: 1rem;
+  }
 }
